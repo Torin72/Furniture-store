@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Furniture-store/static/css/main.4e2c4b82.css",
-    "main.js": "/Furniture-store/static/js/main.81d755e1.js",
+    "main.js": "/Furniture-store/static/js/main.9a9ee10b.js",
     "static/media/podrostkovaya-komnata1.jpg": "/Furniture-store/static/media/podrostkovaya-komnata1.8b887bb4cb83c8dbae11.jpg",
     "index.html": "/Furniture-store/index.html",
     "main.4e2c4b82.css.map": "/Furniture-store/static/css/main.4e2c4b82.css.map",
-    "main.81d755e1.js.map": "/Furniture-store/static/js/main.81d755e1.js.map"
+    "main.9a9ee10b.js.map": "/Furniture-store/static/js/main.9a9ee10b.js.map"
   },
   "entrypoints": [
     "static/css/main.4e2c4b82.css",
-    "static/js/main.81d755e1.js"
+    "static/js/main.9a9ee10b.js"
   ]
 }
