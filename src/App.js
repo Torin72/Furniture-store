@@ -15,7 +15,7 @@ class App extends React.Component {
         {
           id: 1,
           title: "Стул Белен",
-          img: "chair1.jpg",
+          img: "Стул1.jpg",
           desc: "Изящный стул Белен станет превосходным дополнением классической кухни и внесет в интерьер нотки утонченности и стиля.",
           category: "chairs",
           price: "4590",
@@ -23,7 +23,7 @@ class App extends React.Component {
         {
           id: 2,
           title: "Кухонный стол Давос",
-          img: "Стол1.jpg",
+          img: "chair1.jpg",
           desc: "Кухонный стол",
           category: "tables",
           price: "9950",
